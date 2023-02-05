@@ -112,8 +112,9 @@ main {
 
 @media screen and (max-height:350px) {
     .container {
-        height: 80vh;
-        width: 80vw;
+        height: 300px;
+        width: 600px;
+        font-size: 1rem;
     }
 }
 
